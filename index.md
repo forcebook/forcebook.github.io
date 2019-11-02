@@ -4,4 +4,4 @@ Syntax highlighted code block
 ```
 ## Poglavlje dva
 
-GitHub Pages will run [Own GitHub Index](https://forcebook.github.io/sadrzaj/index.md) to rebuild the pages in your site, from the content in your Markdown files.
+GitHub Pages will run [Own GitHub Index](https://forcebook.github.io/sadrzaj/) to rebuild the pages in your site, from the content in your Markdown files.
