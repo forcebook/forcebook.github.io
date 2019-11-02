@@ -1,7 +1,7 @@
-### Ovo je sadrzaj
+### Content of this hub
 ```markdown
-Syntax highlighted code block
+Here is something itersting stuff... :-)
 ```
-## Poglavlje dva
+### Chapter 01
 
-GitHub Pages will run [Own GitHub Index](https://forcebook.github.io/sadrzaj/) to rebuild the pages in your site, from the content in your Markdown files.
+Sadržaj ovih stranica [Sadržaj](https://forcebook.github.io/sadrzaj/) 
